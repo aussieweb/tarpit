@@ -16,7 +16,7 @@ function tarpit_hide_class() {
 	$options = tarpit_get_theme_options();
 	?>
 	<input type="text" name="tarpit_theme_options[hide_class]" id="hide-class" value="<?php echo esc_attr( $options['hide_class'] ); ?>" /><br />
-	<label class="description" for="hide-class"><?php _e( 'Class to apply to your hidden field. Default: <code>.bzzz</code>', 'tarpit' ); ?></label>
+	<label class="description" for="hide-class"><?php _e( 'Class to apply to your hidden field. Default: <code>.tarpit</code>', 'tarpit' ); ?></label>
 	<?php
 }
 
