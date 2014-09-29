@@ -22,10 +22,10 @@ Getting started with Tarpit is as simple as installing a plugin:
 1. Upload the `tarpit` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the Plugins menu in WordPress.
 3. Add your random key and configure your options under "Settings" in the Admin Dashboard.
-4. Add the `.bzzz` class to your CSS with the following properties:
+4. Add the `.tarpit` class to your CSS with the following properties:
 
     ```css
-    .bzzz {
+    .tarpit {
         display: none;
         visibility: hidden;
     }
@@ -59,5 +59,7 @@ Tarpit is licensed under the [GPLv2 License](https://wordpress.org/about/gpl/).
 
 Tartpit uses [semantic versioning](http://semver.org/).
 
+* v2.0.0 - September 29, 2014
+	* Changed hide class name from `.bzzz` to `.tarpit`.
 * v1.0.0 - September 26, 2014
 	* Initial release.
