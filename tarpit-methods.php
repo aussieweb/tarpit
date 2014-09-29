@@ -34,7 +34,7 @@
 			$this->label = rand()&3;
 			$this->addOn = substr(sha1(time().$this->salt),0,6);
 			$this->salt = $this->options['random_key'] === '' ? 'thisisareallybadrandomkey' :  $this->options['random_key'];
-			$this->hideClass = $this->options['hide_class'] === '' ? 'bzzz' : $this->options['hide_class'];
+			$this->hideClass = $this->options['hide_class'] === '' ? 'tarpit' : $this->options['hide_class'];
 		}
 
 		function tarpit_insertHoneyPot(){
