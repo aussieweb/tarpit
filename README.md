@@ -28,6 +28,7 @@ Getting started with Tarpit is as simple as installing a plugin:
         display: none;
         visibility: hidden;
     }
+    ```
 
 And that's it, you're done. Nice work!
 
