@@ -1,7 +1,7 @@
 # Tarpit
 A Wordpress plugin that reduces comment spam with a smart [honeypot](http://en.wikipedia.org/wiki/Honeypot_(computing)) to capture bots.
 
-It adds a field to your comments form that's hidden from users to visible to spambots. If this field is filled out, the comment is flagged as spam. Forked from [WP Comment Smart Honeypot](https://github.com/freak3dot/wp-smart-honeypot) by Ryan Johnston.
+It adds a field to your comments form that's hidden from users but visible to spambots. If this field is filled out, the comment is flagged as spam. Forked from [WP Comment Smart Honeypot](https://github.com/freak3dot/wp-smart-honeypot) by Ryan Johnston.
 
 [Download Tarpit](https://github.com/cferdinandi/tarpit/archive/master.zip)
 
