@@ -23,6 +23,7 @@ Getting started with Tarpit is as simple as installing a plugin:
 2. Activate the plugin through the Plugins menu in WordPress.
 3. Add your random key and configure your options under "Settings" in the Admin Dashboard.
 4. Add the `.bzzz` class to your CSS with the following properties:
+
     ```css
     .bzzz {
         display: none;
