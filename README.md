@@ -11,7 +11,6 @@ It adds a field to your comments form that's hidden from users but visible to sp
 2. [How to Contribute](#how-to-contribute)
 3. [Limitations](#limitations)
 4. [License](#license)
-5. [Changelog](#changelog)
 
 
 
@@ -52,14 +51,3 @@ In lieu of a formal style guide, take care to maintain the existing coding style
 ## License
 
 Tarpit is licensed under the [GPLv2 License](https://wordpress.org/about/gpl/).
-
-
-
-## Changelog
-
-Tartpit uses [semantic versioning](http://semver.org/).
-
-* v2.0.0 - September 29, 2014
-	* Changed hide class name from `.bzzz` to `.tarpit`.
-* v1.0.0 - September 26, 2014
-	* Initial release.
