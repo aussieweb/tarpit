@@ -44,7 +44,7 @@ Since this plugin rearranges form fields, it requires the [newer comment templat
 
 ## How to Contribute
 
-In lieu of a formal style guide, take care to maintain the existing coding style. Don't forget to update the version number, the changelog (in the `readme.md` file), and when applicable, the documentation.
+In lieu of a formal style guide, take care to maintain the existing coding style. Please apply fixes to both the development and production code. Don't forget to update the version number, and when applicable, the documentation.
 
 
 
