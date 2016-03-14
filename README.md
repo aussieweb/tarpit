@@ -5,13 +5,6 @@ It adds a field to your comments form that's hidden from users but visible to sp
 
 [Download Tarpit](https://github.com/cferdinandi/tarpit/archive/master.zip)
 
-**In This Documentation**
-
-1. [Getting Started](#getting-started)
-2. [How to Contribute](#how-to-contribute)
-3. [Limitations](#limitations)
-4. [License](#license)
-
 
 
 ## Getting Started
@@ -34,6 +27,8 @@ And that's it, you're done. Nice work!
 
 You can change the class name and hidden field layout under "Settings" in the Admin Dashboard. You should avoid using words like "hide" or "hidden" in your hide class to make it harder for bots to identify.
 
+It's recommended that you also install the [GitHub Updater plugin](https://github.com/afragen/github-updater) to get automattic updates.
+
 
 
 ## Limitations
@@ -44,7 +39,7 @@ Since this plugin rearranges form fields, it requires the [newer comment templat
 
 ## How to Contribute
 
-In lieu of a formal style guide, take care to maintain the existing coding style. Please apply fixes to both the development and production code. Don't forget to update the version number, and when applicable, the documentation.
+Please read the [Contribution Guidelines](CONTRIBUTING.md).
 
 
 
